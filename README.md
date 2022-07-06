@@ -7,3 +7,7 @@
 ### https://drive.google.com/file/d/1m89CyeIhyCBDOqHA25VUK4d9TI9J8Uc-/view?usp=sharing
 ### https://drive.google.com/file/d/1pzdBxMdfQBlN_3thDoycfysL0ElQCmIx/view?usp=sharing
 ### 2. colab에서 runtime을 GPU로 돌리고 실행한다.
+
+## TODO
+### 1. Kitti Dataset, Nuscenes Dataset 추가
+### 2. Training 시 Trained model 사용해 fine tuning 기능 지원
